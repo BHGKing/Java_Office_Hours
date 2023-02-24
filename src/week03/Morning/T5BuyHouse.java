@@ -1,3 +1,5 @@
+package week03.Morning;
+
 public class T5BuyHouse {
     public static void main(String[] args) {
 
@@ -13,7 +15,7 @@ public class T5BuyHouse {
     }
 }
 /*
-T5BuyHouse [variables, if statement, operators, logical & relational operators]
+week03.Morning.T5BuyHouse [variables, if statement, operators, logical & relational operators]
 
     Create a program that will define two variables: credit score and salary
     Use the given information to determine if you are eligible for a loan to buy a new house

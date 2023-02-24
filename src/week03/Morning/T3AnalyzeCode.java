@@ -1,3 +1,5 @@
+package week03.Morning;
+
 public class T3AnalyzeCode {
     public static void main(String[] args) {
 
@@ -29,7 +31,7 @@ public class T3AnalyzeCode {
     }
 }
 /*
-T3AnalyzeCode [unary operators, casting]
+week03.Morning.T3AnalyzeCode [unary operators, casting]
 
     - take a look at this given code and evaluate what the result is for each
 

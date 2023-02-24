@@ -1,3 +1,5 @@
+package week03.Morning;
+
 public class T1BasicCalculator {
     public static void main(String[] args) {
 
@@ -20,7 +22,7 @@ public class T1BasicCalculator {
     }
 }
 /*
-T1BasicCalculator [variables, operators, concatenation]
+week03.Morning.T1BasicCalculator [variables, operators, concatenation]
 
     Create a program that will define two double variables. Take the two numbers are perform all the mathematical operations on them ( + - * / % )
     Output in this format:

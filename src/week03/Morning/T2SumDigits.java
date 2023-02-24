@@ -1,3 +1,5 @@
+package week03.Morning;
+
 public class T2SumDigits {
     public static void main(String[] args) {
         int number = 561;
@@ -18,7 +20,7 @@ public class T2SumDigits {
     }
 }
 /*
-T2SumDigits [variables, arithmetic & shorthand operators]
+week03.Morning.T2SumDigits [variables, arithmetic & shorthand operators]
 
     Create a program that will define an int number that ranges from 100 - 999. Take each digit individually and calculate the sum of all the digits
 
